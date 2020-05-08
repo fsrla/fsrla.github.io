@@ -1,22 +1,26 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: FSRLA
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Fédération suisse romande de lutte amateur
 
 # Your name to show in the footer
-author: Some Person
+author: FSRLA
+
+# Fixed URL of the site
+url: "https://fsrla.ch"
+baseurl: ""
 
 # --- List of links in the navigation bar --- #
-
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Documents: "documents"
+  Membres:
+    - Clubs: "clubs"
+    - Comité: "comite"
+    - Arbitres: "arbitres"
+  Contact: "contact"
 
 # --- Logo --- #
 
@@ -38,11 +42,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
   rss: true
+  email: "info@fsrla.ch"
+  github: "fsrla"
+#  facebook: deanattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -62,13 +66,13 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
   facebook: true
-  linkedin: true
+  twitter: true
+#  linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "FSRLA.ch"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -80,9 +84,9 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-border-col: "#EAEAEA"
+navbar-col: "#3030A0"
+navbar-text-col: "#FAFAFA"
+navbar-children-col: "#303080"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -103,7 +107,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-155087551-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -155,7 +159,7 @@ footer-link-col: "#404040"
 title-separator: "-"
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%d.%m.%Y"
 
 # Facebook App ID
 #fb_app_id: ""
@@ -164,7 +168,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Zurich"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -199,8 +203,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
-  - docs/
 
 plugins:
   - jekyll-paginate
