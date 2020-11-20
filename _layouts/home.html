@@ -104,18 +104,26 @@ layout: page
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
+<<<<<<< HEAD
     <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">
       <i class="fas fa-arrow-left" alt="Newer Posts"></i>
       <span class="d-none d-sm-inline-block">Newer Posts</span>
     </a>
+=======
+    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Posts plus récents</a>
+>>>>>>> 84671bd (Translate read more)
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="page-item next">
+<<<<<<< HEAD
     <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">
       <span class="d-none d-sm-inline-block">Older Posts</span>
       <i class="fas fa-arrow-right" alt="Older Posts"></i>
     </a>
+=======
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Posts plus anciens &rarr;</a>
+>>>>>>> 84671bd (Translate read more)
   </li>
   {% endif %}
 </ul>
