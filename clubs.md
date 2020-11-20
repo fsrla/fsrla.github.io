@@ -5,6 +5,8 @@ subtitle: Informations sur les clubs de la FSRLA
 use-site-title: true
 ---
 
+_Dernière mise à jour : le 08.05.2020_
+
 ## Affiliés à la Swiss Wrestling Federation
 
 | Site Web | Club | Contact | Liens |
@@ -26,5 +28,3 @@ use-site-title: true
 <a href="https://illarsaz-lutte.ch/" target="_blank">![logo](/assets/img/clubs/illarsaz.png)</a> | CL Illarsaz-Haut-Lac | Christian Rouiller | <a href="https://www.facebook.com/IllarsazLutte/" title="Facebook" target="_blank"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fab fa-facebook fa-stack-1x fa-inverse"></i></span><span class="sr-only">Facebook</span></a> <a href="mailto:illarsaz.lutte@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email me</span></a>
 ![logo](/assets/img/avatar-icon.png) | SCL Martigny | David Martinetti | <a href="mailto:david@martinettisa.ch" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email me</span></a>
 ![logo](/assets/img/clubs/troistorrents.png) | Troistorrents Lutte | Maurice Berthoud | <a href="https://www.facebook.com/TroistorrentsLutte/" title="Facebook" target="_blank"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fab fa-facebook fa-stack-1x fa-inverse"></i></span><span class="sr-only">Facebook</span></a>
-
-_Dernière mise à jour : le 08.05.2020_
