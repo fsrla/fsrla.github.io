@@ -5,6 +5,8 @@ subtitle: List des arbitres de la FSRLA
 use-site-title: true
 ---
 
+_Dernière mise à jour : le 08.05.2020_
+
 |---
 | Nom | Cat. | Club |
 |-|-|-|
@@ -16,5 +18,3 @@ use-site-title: true
 | Benno Jungo | Rég. | RS Sense |
 | Stefan Syarov | Rég. | CS l'Equipe |
 | *David Schneuwly* | Rég. | RS Sense |
-
-_Dernière mise à jour : le 08.05.2020_

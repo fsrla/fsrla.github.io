@@ -4,6 +4,9 @@ title: Comité
 subtitle: Membres du comité de la FSRLA
 use-site-title: true
 ---
+
+_Dernière mise à jour : le 08.05.2020_
+
 |---
 | Nom | Poste | Contact |
 |-|-|:-:|
@@ -20,5 +23,3 @@ use-site-title: true
 | Nom | Poste | Contact |
 |-|-|:-:|
 | Christoph Feyer | Chef technique | <a href="mailto:feyerch@hotmail.com" title="Email"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email</span></a>
-
-_Dernière mise à jour : le 08.05.2020_
