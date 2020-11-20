@@ -1,10 +1,10 @@
 ---
 layout: post
-image: /assets/img/posts/2020-01-18-assemblee/thumbnail.jpg
 title: Assemblée annuelle 2020
 date: '2020-01-18 07:00:00 +0100'
+thumbnail-img: /assets/img/posts/2020-01-18-assemblee/thumbnail.jpg
+cover-img: /assets/img/posts/2020-01-18-assemblee/thumbnail.jpg
 tags: [assemblée, lutte]
-comments: true
 ---
 
 **L'assemblée annuelle de la FSRLA a eu lieu le vendredi 17 janvier 2020 aux ateliers Martinetti à Martigny.**
