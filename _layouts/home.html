@@ -93,12 +93,12 @@ layout: page
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Posts plus récents</a>
+    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Articles plus récents</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Posts plus anciens &rarr;</a>
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Articles plus anciens &rarr;</a>
   </li>
   {% endif %}
 </ul>
