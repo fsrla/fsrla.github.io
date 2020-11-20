@@ -4,7 +4,6 @@ title: Inauguration du site
 subtitle: fsrla.ch est désormais ouvert au public
 date: '2019-12-29 18:30:00 +0100'
 thumbnail-img: /assets/img/avatar-icon.png
-cover-img: /assets/img/avatar-icon.png
 tags: [administration, site]
 ---
 
