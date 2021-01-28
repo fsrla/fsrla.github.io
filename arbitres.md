@@ -5,7 +5,7 @@ subtitle: List des arbitres de la FSRLA
 use-site-title: true
 ---
 
-_Dernière mise à jour : le 08.05.2020_
+_Dernière mise à jour : le 28.01.2021_
 
 |---
 | Nom | Cat. | Club |
@@ -17,4 +17,5 @@ _Dernière mise à jour : le 08.05.2020_
 | Qais Mohammadi | Rég. | RS Sense |
 | Benno Jungo | Rég. | RS Sense |
 | Stefan Syarov | Rég. | CS l'Equipe |
-| *David Schneuwly* | Rég. | RS Sense |
+| Gabija Kairyté | C.Rég. | Lutte Team Valais |
+| Hasan Soydan | C.Rég. | |
