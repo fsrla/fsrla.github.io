@@ -4,15 +4,14 @@ subtitle: Documents actuels et archives de la FSRLA
 use-site-title: true
 ---
 
-_Dernière mise à jour : le 28.01.2021_
+_Dernière mise à jour : le 16.01.2022_
 
 ## Tournois régionaux
 
-06.02.2021 | 17<sup>e</sup> Mémorial Mikaël Sarrasin | *ANNULÉ*
-20.02.2021 | 25<sup>e</sup> Tournoi international de la Singine | Résultats
-20.03.2021 | 41<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
-12.06.2021 | Coupe et championnats romands, Martigny | Résultats
-19.12.2021 | Championnats valaisans, Martigny | Résultats
+05.02.2022 | 17<sup>e</sup> Mémorial Mikaël Sarrasin | Résultats
+19.02.2022 | 25<sup>e</sup> Tournoi international de la Singine | Résultats
+??.??.2022 | 41<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
+??.06.2022 | Coupe et championnats romands, Illarsaz | Résultats
 
 * * *
 
@@ -27,24 +26,19 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 
 ## Cadre romand
 
-- Centre Valais / Stützpunkt Wallis
-    - 19:00 --- 1<sup>er</sup> mercredi de chaque mois / 1. Mittwoch des Monats
-- Centre Fribourg / Stützpunkt Freiburg
-    - 19:30 --- 2<sup>e</sup> jeudi de chaque mois / 2. Donnerstag des Monats
-- Centre Genève / Stützpunkt Genf
-    - 18:00 --- 3<sup>e</sup> mardi de chaque mois / 3. Dienstag des Monats
-    - Centre Sportif du Bois des Frères, Chemin de l'Ecu 24, 1219 Châtelaine
-
-### Programme 2020
-
-**Date** | **Lieu** | **Remarques**
--:|-|-
-
-![programme-cadre-romand](/docs/2020/2020-programme-cadre-romand.jpg)
+*Informations à suivre...*
 
 * * *
 
 ## Archive
+
+### 2021
+
+06.02.2021 | 17<sup>e</sup> Mémorial Mikaël Sarrasin | *ANNULÉ*
+20.02.2021 | 25<sup>e</sup> Tournoi international de la Singine | *ANNULÉ*
+20.03.2021 | 41<sup>e</sup> Tournoi Hermann Chardonnens | *ANNULÉ*
+12.06.2021 | Coupe et championnats romands, Martigny | Résultats
+19.12.2021 | Championnats valaisans, Martigny | Résultats
 
 ### 2020
 
@@ -52,3 +46,4 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 22.02.2020 | [24<sup>e</sup> Tournoi international de la Singine](/docs/2020/2020-02-22-sense-fr.pdf) ([DE](/docs/2020/2020-02-22-sense-de.pdf)) | [Résultats](/docs/2020/2020-02-22-sense-resultats.pdf)
 16.05.2020 | 41<sup>e</sup> Tournoi Hermann Chardonnens | *ANNULÉ*
 29.08.2020 | Coupe et championnats romands, Martigny | *ANNULÉ*
+

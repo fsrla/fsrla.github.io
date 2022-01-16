@@ -5,7 +5,7 @@ subtitle: Informations sur les clubs de la FSRLA
 use-site-title: true
 ---
 
-_Dernière mise à jour : le 08.05.2020_
+_Dernière mise à jour : le 16.01.2021_
 
 ## Affiliés à la Swiss Wrestling Federation
 
@@ -16,7 +16,7 @@ _Dernière mise à jour : le 08.05.2020_
 <a href="http://www.geneve-lutte.ch/" target="_blank">![logo](/assets/img/clubs/geneve.png)</a> | Genève-Lutte | Daniel Chardonnens | <a href="https://www.facebook.com/Gen%C3%A8ve-Lutte-Junior-788703041222907/" title="Facebook" target="_blank"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fab fa-facebook fa-stack-1x fa-inverse"></i></span><span class="sr-only">Facebook</span></a> <a href="mailto:chardon@infomaniak.ch" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email me</span></a>
 <a href="http://lutteteamvalais.ch/" target="_blank">![logo](/assets/img/clubs/valais.png)</a> | Lutte Team Valais | David Martinetti | <a href="https://www.facebook.com/lutteteamvalais/" title="Facebook" target="_blank"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fab fa-facebook fa-stack-1x fa-inverse"></i></span><span class="sr-only">Facebook</span></a> <a href="mailto:david@martinettisa.ch" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email me</span></a>
 ![logo](/assets/img/avatar-icon.png) | RL Vevey | Marc-André Mosimann | <a href="mailto:mosimannfa@bluewin.ch" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email me</span></a>
-<a href="https://www.rssense.ch/" target="_blank">![logo](/assets/img/clubs/sense.png)</a> | RS Sense | Robin Pietschmann | <a href="https://www.facebook.com/Ringerstaffel-Sense-255733257793754/" title="Facebook" target="_blank"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fab fa-facebook fa-stack-1x fa-inverse"></i></span><span class="sr-only">Facebook</span></a> <a href="mailto:praesident@rssense.ch" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email me</span></a>
+<a href="https://www.rssense.ch/" target="_blank">![logo](/assets/img/clubs/sense.png)</a> | RS Sense | Dario Decorvet | <a href="https://www.facebook.com/Ringerstaffel-Sense-255733257793754/" title="Facebook" target="_blank"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fab fa-facebook fa-stack-1x fa-inverse"></i></span><span class="sr-only">Facebook</span></a> <a href="mailto:praesident@rssense.ch" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><span class="sr-only">Email me</span></a>
 
 * * *
 
