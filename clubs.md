@@ -5,7 +5,7 @@ subtitle: Informations sur les clubs de la FSRLA
 use-site-title: true
 ---
 
-_Dernière mise à jour : le 16.01.2021_
+_Dernière mise à jour : le 16.01.2022_
 
 ## Affiliés à la Swiss Wrestling Federation
 
