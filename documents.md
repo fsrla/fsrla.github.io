@@ -37,8 +37,8 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 06.02.2021 | 17<sup>e</sup> Mémorial Mikaël Sarrasin | *ANNULÉ*
 20.02.2021 | 25<sup>e</sup> Tournoi international de la Singine | *ANNULÉ*
 20.03.2021 | 41<sup>e</sup> Tournoi Hermann Chardonnens | *ANNULÉ*
-12.06.2021 | Coupe et championnats romands, Martigny | Résultats
-19.12.2021 | Championnats valaisans, Martigny | Résultats
+12.06.2021 | [Coupe et championnats romands, Martigny](/docs/2021/2021-06-12-championnats-romands.pdf) | Résultats
+19.12.2021 | [Championnats valaisans, Martigny](/docs/2021/2021-12-19-championnats-valaisans.pdf) | Résultats
 
 ### 2020
 
