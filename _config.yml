@@ -94,9 +94,9 @@ social-network-links:
 #  gitlab: yourname
 #  itchio: yourname
 
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# If you want to show a link to an RSS in the footer, add the site description here.
+# If you don't want to show an RSS link, remove the following line.
+rss-description: Fédération suisse romande de lutte amateur
 
 ###########################
 # --- General options --- #
@@ -106,7 +106,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   facebook: true
   twitter: true
-#  linkedin: true
+  linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -136,7 +136,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "switzerland,suisse,wrestling,lutte,fsrla,region 1,region I,romand,olympique"
 
 ######################################
 # --- Colours / background image --- #
