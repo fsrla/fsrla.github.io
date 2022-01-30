@@ -8,7 +8,7 @@ _Dernière mise à jour : le 16.01.2022_
 
 ## Tournois régionaux
 
-05.02.2022 | 17<sup>e</sup> Mémorial Mikaël Sarrasin | Résultats
+05.02.2022 | [17<sup>e</sup> Mémorial Mikaël Sarrasin](docs/2022/2022-02-05-mikael-sarrasin.pdf) | Résultats
 19.02.2022 | 25<sup>e</sup> Tournoi international de la Singine | Résultats
 ??.??.2022 | 41<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
 ??.06.2022 | Coupe et championnats romands, Illarsaz | Résultats
