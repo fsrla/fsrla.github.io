@@ -4,14 +4,14 @@ subtitle: Documents actuels et archives de la FSRLA
 use-site-title: true
 ---
 
-_Dernière mise à jour : le 16.01.2022_
+_Dernière mise à jour : le 26.02.2022_
 
 ## Tournois régionaux
 
-05.02.2022 | [17<sup>e</sup> Mémorial Mikaël Sarrasin](docs/2022/2022-02-05-mikael-sarrasin.pdf) | Résultats
-19.02.2022 | 25<sup>e</sup> Tournoi international de la Singine | Résultats
-??.??.2022 | 41<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
+05.02.2022 | [17<sup>e</sup> Mémorial Mikaël Sarrasin](docs/2022/2022-02-05-mikael-sarrasin.pdf) | [Résultats](docs/2022/2022-02-05-mikael-sarrasin-resultats.pdf)
+19.02.2022 | [25<sup>e</sup> Tournoi international de la Singine](docs/2022/2022-02-19-sense.pdf) | [Résultats](docs/2022/2022-02-19-sense-resultats.pdf)
 ??.06.2022 | Coupe et championnats romands, Illarsaz | Résultats
+25.06.2022 | 41<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
 
 * * *
 
@@ -34,9 +34,9 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 
 ### 2021
 
-06.02.2021 | 17<sup>e</sup> Mémorial Mikaël Sarrasin | *ANNULÉ*
-20.02.2021 | 25<sup>e</sup> Tournoi international de la Singine | *ANNULÉ*
-20.03.2021 | 41<sup>e</sup> Tournoi Hermann Chardonnens | *ANNULÉ*
+06.02.2021 | 17<sup>e</sup> Mémorial Mikaël Sarrasin | *REPORTÉ*
+20.02.2021 | 25<sup>e</sup> Tournoi international de la Singine | *REPORTÉ*
+20.03.2021 | 41<sup>e</sup> Tournoi Hermann Chardonnens | *REPORTÉ*
 12.06.2021 | [Coupe et championnats romands, Martigny](/docs/2021/2021-06-12-championnats-romands.pdf) | Résultats
 19.12.2021 | [Championnats valaisans, Martigny](/docs/2021/2021-12-19-championnats-valaisans.pdf) | Résultats
 
@@ -44,6 +44,6 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 
 01.02.2020 | [16<sup>e</sup> Mémorial Mikaël Sarrasin](/docs/2020/2020-02-01-mikael-sarrasin.pdf) | [Résultats](/docs/2020/2020-02-01-mikael-sarrasin-resultats.pdf)
 22.02.2020 | [24<sup>e</sup> Tournoi international de la Singine](/docs/2020/2020-02-22-sense-fr.pdf) ([DE](/docs/2020/2020-02-22-sense-de.pdf)) | [Résultats](/docs/2020/2020-02-22-sense-resultats.pdf)
-16.05.2020 | 41<sup>e</sup> Tournoi Hermann Chardonnens | *ANNULÉ*
+16.05.2020 | 41<sup>e</sup> Tournoi Hermann Chardonnens | *REPORTÉ*
 29.08.2020 | Coupe et championnats romands, Martigny | *ANNULÉ*
 
