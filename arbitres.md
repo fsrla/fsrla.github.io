@@ -5,16 +5,16 @@ subtitle: List des arbitres de la FSRLA
 use-site-title: true
 ---
 
-_Dernière mise à jour : le 16.01.2022_
+_Dernière mise à jour : le 26.12.2022_
 
 |---
 | Nom | Cat. | Club |
 |-|-|-|
-| <a href="mailto:robin+fsrla@mamie.one" title="Email">**Robin Mamié**</a> | UWW II | CO Domdidier |
+| <a href="mailto:fsrla.hd70s@simplelogin.com" title="Email">**Robin Mamié**</a> | UWW I | CO Domdidier |
 | Sven Ewert | UWW II | RS Sense |
-| Roger Mamié | Nat. | Lutte Team Valais |
-| Hasan Soydan | C.Nat. | Genève-Lutte |
-| Ali Menasri | Rég. | Genève-Lutte |
+| Hasan Soydan | LN | Genève-Lutte |
+| Roger Mamié | Nat. | CO Domdidier |
+| Ali Menasri | C.Nat. | Genève-Lutte |
+| Saeed Vazifehkhah | C.Nat. | Genève-Lutte |
 | Benno Jungo | Rég. | RS Sense |
 | Stefan Syarov | Rég. | CS l'Equipe |
-| Gabija Kairyté | C.Rég. | Lutte Team Valais |
