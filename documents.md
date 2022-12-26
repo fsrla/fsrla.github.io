@@ -12,7 +12,7 @@ _Dernière mise à jour : le 26.12.2022_
 18.02.2023 | 26<sup>e</sup> Tournoi international de la Singine | Résultats
 06.2023 | Coupe et championnats romands | Résultats
 17.06.2023 | 43<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
-12.2022 | Championnats valaisans | Résultats
+12.2023 | Championnats valaisans | Résultats
 
 * * *
 
