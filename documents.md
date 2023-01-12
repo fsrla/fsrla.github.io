@@ -4,11 +4,11 @@ subtitle: Documents actuels et archives de la FSRLA
 use-site-title: true
 ---
 
-_Dernière mise à jour : le 26.12.2022_
+_Dernière mise à jour : le 12.01.2023_
 
 ## Tournois régionaux
 
-04.02.2023 | 18<sup>e</sup> Mémorial Mikaël Sarrasin | Résultats
+04.02.2023 | [18<sup>e</sup> Mémorial Mikaël Sarrasin](docs/2023/2023-02-04-mikael-sarrasin.pdf) | Résultats
 18.02.2023 | [26<sup>e</sup> Tournoi international de la Singine](docs/2023/2023-02-18-sense.pdf) | Résultats
 06.2023 | Coupe et championnats romands | Résultats
 17.06.2023 | 43<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
