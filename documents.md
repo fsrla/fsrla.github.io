@@ -10,8 +10,8 @@ _Dernière mise à jour : le 12.01.2023_
 
 04.02.2023 | [18<sup>e</sup> Mémorial Mikaël Sarrasin](docs/2023/2023-02-04-mikael-sarrasin.pdf) | Résultats
 18.02.2023 | [26<sup>e</sup> Tournoi international de la Singine](docs/2023/2023-02-18-sense.pdf) | Résultats
-06.2023 | Coupe et championnats romands | Résultats
 17.06.2023 | 43<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
+2023 | Championnats romands | Résultats
 12.2023 | Championnats valaisans | Résultats
 
 * * *
@@ -37,7 +37,7 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 
 05.02.2022 | [17<sup>e</sup> Mémorial Mikaël Sarrasin](docs/2022/2022-02-05-mikael-sarrasin.pdf) | [Résultats](docs/2022/2022-02-05-mikael-sarrasin-resultats.pdf)
 19.02.2022 | [25<sup>e</sup> Tournoi international de la Singine](docs/2022/2022-02-19-sense.pdf) | [Résultats](docs/2022/2022-02-19-sense-resultats.pdf)
-18.06.2022 | [Coupe et championnats romands, Illarsaz](docs/2022/2022-06-18-championnats-romands.pdf) | Résultats
+18.06.2022 | [Championnats romands, Illarsaz](docs/2022/2022-06-18-championnats-romands.pdf) | Résultats
 25.06.2022 | [42<sup>e</sup> Tournoi Hermann Chardonnens](docs/2022/2022-06-25-hermann-chardonnens.pdf) | Résultats
 11.12.2022 | [Championnats valaisans, Martigny](docs/2022/2022-12-11-championnats-valaisans.pdf) | Résultats
 
@@ -54,5 +54,5 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 01.02.2020 | [16<sup>e</sup> Mémorial Mikaël Sarrasin](/docs/2020/2020-02-01-mikael-sarrasin.pdf) | [Résultats](/docs/2020/2020-02-01-mikael-sarrasin-resultats.pdf)
 22.02.2020 | [24<sup>e</sup> Tournoi international de la Singine](/docs/2020/2020-02-22-sense-fr.pdf) ([DE](/docs/2020/2020-02-22-sense-de.pdf)) | [Résultats](/docs/2020/2020-02-22-sense-resultats.pdf)
 16.05.2020 | 41<sup>e</sup> Tournoi Hermann Chardonnens | *REPORTÉ*
-29.08.2020 | Coupe et championnats romands, Martigny | *ANNULÉ*
+29.08.2020 | Championnats romands, Martigny | *ANNULÉ*
 
