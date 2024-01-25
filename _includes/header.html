@@ -37,7 +37,6 @@
             {% if page.author %}
               Par <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
-          {% if include.type == "post" %}
             <span class="post-meta">Posté le {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
