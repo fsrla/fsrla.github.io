@@ -4,15 +4,15 @@ subtitle: Documents actuels et archives de la FSRLA
 use-site-title: true
 ---
 
-_Dernière mise à jour : le 25.01.2024_
+_Dernière mise à jour : le 04.02.2024_
 
 ## Tournois régionaux
 
 04.02.2024 | [19<sup>e</sup> Mémorial Mikaël Sarrasin](docs/2024/2024-02-03-mikael-sarrasin.pdf) | Résultats
 24.02.2024 | [27<sup>e</sup> Tournoi international de la Singine](docs/2024/2024-02-24-sense-fr.pdf) ([DE](docs/2024/2024-02-24-sense-de.pdf)) | Résultats
-06.2024 | 44<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
-2024 | Championnats romands | Résultats
-12.2024 | Championnats valaisans | Résultats
+04.05.2024 | 44<sup>e</sup> Tournoi Hermann Chardonnens | Résultats
+21.09.2024 | Championnats romands, Schmitten | Résultats
+12.2024 | Championnats valaisans, Troistorrents | Résultats
 
 * * *
 
@@ -31,8 +31,8 @@ Tous les règlements et documents de la Swiss Wrestling Federation sont présent
 04.02.2023 | [18<sup>e</sup> Mémorial Mikaël Sarrasin](docs/2023/2023-02-04-mikael-sarrasin.pdf) | Résultats
 18.02.2023 | [26<sup>e</sup> Tournoi international de la Singine](docs/2023/2023-02-18-sense.pdf) | [Résultats](docs/2023/2023-02-18-sense-resultats.pdf)
 17.06.2023 | [43<sup>e</sup> Tournoi Hermann Chardonnens](docs/2023/2023-06-17-hermann-chardonnens.pdf) | Résultats
-04.11.2023 | [Championnats romands](docs/2023/2023-11-04-championnats-romands.pdf) | Résultats
-10.12.2023 | [Championnats valaisans](docs/2023/2023-12-10-championnats-valaisans.pdf) | Résultats
+04.11.2023 | [Championnats romands, Schmitten](docs/2023/2023-11-04-championnats-romands.pdf) | Résultats
+10.12.2023 | [Championnats valaisans, Collombey](docs/2023/2023-12-10-championnats-valaisans.pdf) | Résultats
 
 ### 2022
 
